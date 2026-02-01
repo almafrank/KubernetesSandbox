@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: ghcr.io/almafrank/frontend-guestbook:1.0.31-b7f9fd9
+        image: ghcr.io/almafrank/frontend-guestbook:1.0.44-b1e4c27
         imagePullPolicy: Always
         ports:
         - name: http
